@@ -10,7 +10,7 @@ public class BasePage {
 	/**
 	*
 	*@author Afshan
-	*
+	* 
 	**/
 	
 	public BasePage(WebDriver driver)
